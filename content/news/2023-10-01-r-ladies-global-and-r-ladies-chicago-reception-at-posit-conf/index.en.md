@@ -73,26 +73,26 @@ syndrome. I don't have words to express how it changed my life.
 *Mo:* It is changing individual lives, but it is also changing an entire
 community. We are at tech conference and there are so many women here -
 this of course has to do with the R community that we are in and this R
-community is influenced that R-Ladies is breaking stereotypes and making
+community is influenced. R-Ladies is breaking stereotypes and making
 spaces for all of us. That has been a huge success for us,
-as interest for R-Ladies chapters quickly developed  and
+as interest in R-Ladies chapters quickly developed  and
 became popular very fast. The organization has made space for all of us
-in data science fields. It benefits us and the entire community. There
+in the data science field. It benefits us and the entire community. There
 are amazing initiatives going on as well. By establishing the idea of creating more diversity
 in gender representation in our community (here: the larger R-community), other aspects of
-diversity have become more highlighted also. The efforts on translation of content and even R
-it self, R-Ladies, is one of these.
-R-Ladies in Latin American is making a huge
+diversity have become more highlighted. The efforts on translation of content and even R
+itself, R-Ladies, is one of these.
+R-Ladies in Latin America is making a huge
 impact on a larger scale and all the personal stories are fantastic to
 listen to.
 
 ## Will R-Ladies ever re-brand to a name that is more inclusive to R users of marginalized genders?
 
-*Yani:* Yes. As of now our plan is to open a discussion within the
+*Yani:* Yes. As of now, our plan is to open a discussion within the
 R-Ladies community where members can comment anonymously and individuals
 from the community outside the leadership/global team will join the
 discussion. We hope this allows people to feel free to openly share
-their opinion. We plan to have guidelines and rules written ahead of
+their opinions. We plan to have guidelines and rules written ahead of
 time to help guide the discussion. The results of that discussion will
 help guide the decision of the leadership team, and then it will be
 announced to the broader community. The idea is to have the current, and
@@ -102,20 +102,20 @@ decision.
 ## Any thoughts about age diversity and creating more inclusive accessible meetups?
 
 *Mo:* We provide our organizers a lot of freedom to set up meet-ups in a
-way that make them accessible. When Oslo started, we had good age
-diversit, from studens, profesionnals and retiring professors, it was nice to see
-everyone connecting. However, it can be hard reaching other people, and
+way that makes them accessible. When Oslo started, we had good age
+diversity, from students, professionals, and retiring professors, it was nice to see
+everyone connecting. However, it can be hard to reach other people, and
 there are things we can think about to make it more inclusive. Things
 like having your space easily accessible, in Oslo follow Carpentries rules
-about where the talks are, for example it should be wheelchair
+about where the talks are, for example, it should be wheelchair
 accessible, and near public transportation, not too late in the evening
 so they are not falling asleep and not too early to account for
 children. Allowing kids is another option chapter organizers can decide
 for their communities, and they have the freedom to decide how and what
-you think is best. If anyone has tips or ideas the group is open to
+they think is best. If anyone has tips or ideas the group is open to
 suggestions. We have the R-Ladies guide and there are general
 recommendations; please reach out to us with new ideas so we can share
-with the global community.
+them with the global community.
 
 ## What do we think about the idea of having a RLadies conference day? 👀😊
 
@@ -126,14 +126,14 @@ to be more established, but it is definitely something to consider.
 
 ## Q: What are chapter organizers finding helpful as we go back in person?
 
-*María:* Online meetings have been helpful to reach other people that we
+*María:* Online meetings have been helpful in reaching other people that we
 haven't previously been able to and other parts of Latin America; we
-plan to keep running online meet ups in a 50/50 way. I am glad to be
-back in person also to meet people and connect in a different way.
+plan to keep running online meet-ups in a 50/50 way. I am glad to be
+back in person and also to meet people and connect in a different way.
 
 *Stephanie:* I have had similar experience; we have people from all
 different universities and working in different sectors and because it
-is very difficult to move around city after work and we had talked about
+is very difficult to move around the city after work and we had talked about
 virtual before the pandemic because we wanted to reach a wider audience
 and now most of our events are virtual to be more inclusive and make it
 easier for people to attend events.
@@ -141,13 +141,13 @@ easier for people to attend events.
 *Angela:* Online events allow for the possibility of collaborations with
 other chapters that didn't exist before. Additionally, before there were
 a lot of details in terms of having to find space, get pizza, and open
-doors, now with Zoom this is less so the case now and it makes things
-easier on the organizers and those people that are coming to speak.
+doors, now with Zoom this is less so the case now, and it makes things
+easier on the organizers and those people who are coming to speak.
 
 ## What is the process of starting a chapter?
 
 *Riva:* Send an email to `chapters@rladies.org`. Mouna will welcome you
-and explain process. Chapters are permitted for cities, but not for a
+and explain the process. Chapters are permitted for cities, but not for a
 university or company. If you wish to have a thematic meet-up, you could
 approach a chapter like R-Ladies Remote and they can help create
 thematic meet-ups.
@@ -156,7 +156,7 @@ thematic meet-ups.
 
 *Riva:* Same process; email
 [chapters\@rladies.org](mailto:chapters@rladies.org), and they would be
-happy to begin the process to reactivate your chapter.
+happy to begin the process of reactivating your chapter.
 
 ## If I don't have a local chapter, is there a way to join a "virtual" chapter? Or are there chapters that regularly meet online?
 
@@ -174,13 +174,13 @@ people.
 
 ## Does R-Ladies raise funding for events?
 
-*Yani:* R-Ladies receives money from institutional and individuals
+*Yani:* R-Ladies receives money from institutional and individual
 donors; R Consortium is also a large donor and that mostly goes to
 Meetup fees. For R-Ladies chapters there is a different process -
 chapters can apply for R Consortium grants. If you do not want to manage
 money you can ask for non-monetary donations, like a venue, pizza,
-drinks, etc. More recently some chapters have use Open Collective to
-oranganize their funding.
+drinks, etc. More recently some chapters have used Open Collective to
+organize their funding.
 
 ## Is there a LinkedIn group for R-Ladies Global?
 
@@ -189,7 +189,7 @@ and creating a social media strategy to better reach community members.
 
 ## Should local chapters create a mastodon account?
 
-*Mo:* Social media strategy at the chapter level is up to chapter
+*Mo:* Social media strategy at the chapter level is up to the chapter
 organizers; different chapters have different reasons for using
 particular platforms.
 
@@ -208,7 +208,7 @@ Here are some ideas on organizing events from our guide:
 
 ## For the funding from RConsortium for local events, what is a typical grant amount?
 
-It starts with 150 US\$, but it can be increase depending on your
+It starts with 150 US\$, but it can be increased depending on your
 proposal. More info in our guide:
 <https://guide.rladies.org/organization/intro/finance/#expenses-reimbursed-by-the-global-organization>
 and in the R Consortium page:
