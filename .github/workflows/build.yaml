@@ -32,6 +32,23 @@ jobs:
       RENV_CONFIG_SANDBOX_ENABLED: FALSE
     steps:
     
+      - name: Verify PR
+        if: github.event.pull_request.head.repo.full_name == github.repository
+        run: |
+          echo "PR is from a fork"
+          gh pr comment ${{github.event.pull_request.number}} \
+            --body "The job was skipped because this is a fork.
+            Check the commited files in the "Files" pane of the PR and see that the code looks ok.
+            Do your code review as normal.
+            
+            Once the review is done, you will need to do some steps to get the preview built.
+            - Create [a new branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch-via-the-branches-overview)
+            - [Switch the PR base branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-base-branch-of-a-pull-request) to this branch rather than main. 
+            - Merge the PR, and initiate a new PR to 'main' from the branch you made
+            - Work on this PR as normal untill ready to merge to main
+            "
+          exit 0 # Exit with a zero exit code to indicate success
+
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
